@@ -1,7 +1,10 @@
 body{
     background-color: black;
+    display: flex;
+    justify-content: center;
 }
 #id{
-    background-color: aqua;
+    color: chartreuse;
+    font-size: x-large;
 
 }
